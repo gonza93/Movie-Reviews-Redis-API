@@ -6,7 +6,7 @@
     "body-parser": "~1.9.2",
     "express": "^4.16.4",
     "kerberos": "0.0.23",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "redis": "^2.8.0"
   },
   "devDependencies": {
