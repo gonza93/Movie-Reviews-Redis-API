@@ -2,7 +2,7 @@
   "name": "node-rest-auth",
   "main": "redis-server.js",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "body-parser": "~1.9.2",
     "express": "^4.16.4",
     "kerberos": "0.0.23",
